@@ -1,4 +1,3 @@
-layout_spectrum: 0.6231265366077423
 typography_spectrum: 0.9472283862996846
 color:
   brandStrength: 0.5452909404411912
@@ -11,5 +10,7 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+layout_spectrum: 0.6231265366077423
 name: My Business
 title: egayoV ehT
+description: A Startup Story
